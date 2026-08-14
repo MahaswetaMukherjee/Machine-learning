@@ -1,1 +1,0 @@
-Gradient decent/README.md
